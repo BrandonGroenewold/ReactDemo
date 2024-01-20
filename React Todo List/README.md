@@ -19,4 +19,6 @@ I wanted to learn more about front end development with more than just HTML and 
  -  Add items
  -  Funtioning delete button
  -  Local storage for continual/ future uses
-   
+
+
+![Screenshot 2024-01-19 at 7 51 54 PM](https://github.com/BrandonGroenewold/ReactDemo/assets/106932822/3e544942-701a-4833-ab53-b91458a6258f)
